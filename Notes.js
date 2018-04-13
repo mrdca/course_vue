@@ -1,4 +1,4 @@
-// {{}} this is called Interpolation or String Interpolation
+// {{}} this is called Interpolation or String Interpolation.
 
 //to bind data, use: v-bind:prop="element" -> example: <a v-bind:href="link">
 
